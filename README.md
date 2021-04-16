@@ -15,7 +15,7 @@ Here's a table of contents to make it easier to find what what you are looking f
 You will be presented with a principal page, once you have clicked on "Start Scheduling" you will be sent to the calendar page, where you can write all your activities and save them in the local storage by clicking the side button "💾". If you want to reset the day just click the button that says "Reset activities" :)
 
 ## Installation 💻
-Once you are in my gitgub repository for this project, <https://reginaafc.github.io/Work-Day-Scheduler>: 
+Once you are in my gitgub repository for this project, <https://github.com/reginaafc/Work-Day-Scheduler/blob/gh-pages/README.md>: 
 <br>
 1.- First you need to get the HTTPS or GitHub CLI from the green button in the top right corner that says "Code". 🟢
 <br>
